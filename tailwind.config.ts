@@ -14,6 +14,7 @@ export default {
         foregroundTwo: "var(--foregroundTwo)",
         textGold: "var(--textGold)",
         optionGray: "var(--optionGray)",
+        borderBtn: "var(--borderBtn)",
       },
     },
   },

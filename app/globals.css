@@ -7,7 +7,8 @@
   --foreground: #EEEEEE;
   --foregroundTwo: #F7F7F7;
   --textGold: #C5A266;
-  --optionGray: #8E8E8E
+  --optionGray: #8E8E8E;
+  --borderBtn: #D2D2D2;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -29,8 +29,8 @@ const ColCenterImage = () => {
                         </span>
 
                     </p>
-                    <Button className={'bg-blue-500'}>
-                        dsfs
+                    <Button className='py-1' >
+                        Buy now
                     </Button>
                 </div>
 

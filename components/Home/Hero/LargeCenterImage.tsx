@@ -22,8 +22,8 @@ const LargeCenterImage = () => {
                         by injected humour,
                         or randomised words which don't look even slightly believable
                     </p>
-                    <Button className={'bg-blue-500'}>
-                        dsfs
+                    <Button className='py-1'>
+                        Buy now
                     </Button>
                 </div>
 
